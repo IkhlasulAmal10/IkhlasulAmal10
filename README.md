@@ -49,14 +49,14 @@ Welcome to my GitHub profile — feel free to explore my projects and connect wi
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&count_private=true&theme=react)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=IkhlasulAmal10&count_private=true&theme=react)
+![](https://github-readme-streak-stats.herokuapp.com/?user=IkhlasulAmal10&theme=react&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IkhlasulAmal10&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 📈 GitHub Activity Graph
-[![Ikhlasul Amal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1d2a3a&color=9cf0e9&line=00b4d8&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ikhlasul Amal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IkhlasulAmal10&bg_color=1d2a3a&color=9cf0e9&line=00b4d8&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -66,4 +66,4 @@ Welcome to my GitHub profile — feel free to explore my projects and connect wi
 ---
 
 ## 👀 Visitor Count
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&&color=lightgrey&&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=IkhlasulAmal10&&color=lightgrey&&style=for-the-badge)
