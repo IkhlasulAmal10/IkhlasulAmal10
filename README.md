@@ -40,7 +40,6 @@ Welcome to my GitHub profile — feel free to explore my projects and connect wi
 ![EasyOCR](https://img.shields.io/badge/EasyOCR-%23FF6B6B.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-%230070B8.svg?style=for-the-badge&logo=paddlepaddle&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![ANN](https://img.shields.io/badge/ANN-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 🎨 UI Frameworks & Styling
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
