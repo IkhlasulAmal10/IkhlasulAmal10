@@ -37,6 +37,10 @@ Welcome to my GitHub profile — feel free to explore my projects and connect wi
 ![YOLO](https://img.shields.io/badge/YOLO-%2300FFFF.svg?style=for-the-badge&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![EasyOCR](https://img.shields.io/badge/EasyOCR-%23FF6B6B.svg?style=for-the-badge&logo=python&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-%230070B8.svg?style=for-the-badge&logo=paddlepaddle&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![ANN](https://img.shields.io/badge/ANN-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 🎨 UI Frameworks & Styling
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
