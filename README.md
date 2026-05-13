@@ -1,6 +1,7 @@
 # 💫 About Me
-Hi there! I'm **Ikhlasul Amal**, a passionate frontend developer who loves crafting beautiful and interactive web experiences.  
-Welcome to my GitHub profile — feel free to explore my projects and connect with me!
+Hey! I'm Ikhlasul Amal, a data science enthusiast who loves turning raw data into meaningful insights. 🚀
+From building ML models to exploring Deep Learning and Computer Vision — I'm always curious about what AI can do next.
+Welcome to my GitHub profile — feel free to explore my projects and let's connect!
 
 ---
 
